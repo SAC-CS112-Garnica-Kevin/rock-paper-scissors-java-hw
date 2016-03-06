@@ -1,6 +1,6 @@
 /* 	Kevin Garnica
-	2/21/2016
-	Hello Word Program 
+	3/6/2016
+	Rock, Paper, Scissors Program 
  */
 
 
